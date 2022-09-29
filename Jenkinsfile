@@ -5,7 +5,7 @@ pipeline {
         maven "M3"
     }
     stages {
-        stage('Build') {
+        stage('Build Maven') {
             steps {
                 println 'Cloning repository...'
                 git 'https://github.com/nirkoren/devopscon.git'
