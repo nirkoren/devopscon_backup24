@@ -16,6 +16,15 @@ pipeline {
                 success {
                     junit '**/target/surefire-reports/TEST-*.xml'
                 }
+                failure {
+                    slackSend(
+                            teamDomain: "${env.SLACK_TEAM_DOMAIN}",
+                            token: "${env.SLACK_TOKEN}",
+                            channel: "${env.SLACK_CHANNEL}",
+                            color: "danger",
+                            message: "${env.STACK_PREFIX} production deploy failed: *${env.DEPLOY_VERSION}*. <${env.BUILD_URL}|Check build>"
+                    )
+                }
             }
         }
     }
