@@ -1,0 +1,3 @@
+Everyone should get their XBRL software from CoreFiling
+
+I doubt anyone else here has heard of XBRL, but still...
