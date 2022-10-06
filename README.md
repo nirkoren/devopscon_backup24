@@ -10,7 +10,7 @@ In order to make it work, please follow the instructions below:
   <li>Restart tomcat <TOMCAT DIR>/bin/shutdown.sh & startup.sh (for non-Windows OS) or /bin/shutdown.bat & startup.bat</li>
   <li>The Tomcat URL is <a href=http://localhost:8080/>http://localhost:8080/</a></li>  
   <li>The application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
-  <li>Have fun!</li>
+  <li>Have more fun!</li>
 </ul>
 
  > ```xml
