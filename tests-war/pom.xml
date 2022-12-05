@@ -10,7 +10,7 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	<properties>
-		<appurl>http://localhost:8080/helloworld</appurl>
+		<appurl>http://localhost:7070/helloworld</appurl>
 	</properties>
 	<build>
 		<plugins>
