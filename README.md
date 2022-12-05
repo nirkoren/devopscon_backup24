@@ -2,6 +2,7 @@
 ## This repository contains basic Maven project with Hello-World war file 
 In order to make it work, please follow the instructions below: 
 
+<b>hello</b>
 <ul>
   <li>Make sure JAVA 11 (<b>JDK</b> and not only <b>JRE</b>) is running on your laptop</li>
   <li>Get Tomcat 9 (not version 10) - prefer the Core > Zip from <a href=https://tomcat.apache.org/download-90.cgi target=new>here</a> or direct download from <a href=https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.67/bin/apache-tomcat-9.0.67.zip target=new>here</a> </li>
