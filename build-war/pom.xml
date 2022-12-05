@@ -35,8 +35,8 @@
 					<url>http://tomcat:8080/manager/text</url>
 					<server>TomcatServer</server>
 					<path>/helloworld</path>
-					<username>admin</username>
-					<password>admin</password>
+					<username>manager</username>
+					<password></password>
 				</configuration>
 
 				<executions>
