@@ -8,5 +8,6 @@
 		HelloHandler handler = new HelloHandler();
 		out.print(prefix + handler.sayHello());
 	%>
+	<img src="https://www.nme.com/wp-content/uploads/2016/12/POTY_Pikachu_3.jpg" alt="" width="500" height="600">
 </body>
 </html>
