@@ -11,6 +11,7 @@ In order to make it work, please follow the instructions below:
   <li>The Tomcat URL is <a href=http://localhost:8080/>http://localhost:8080/</a></li>  
   <li>The application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
   <li>Have more fun!</li>
+  <li>Check out London!</li>
 </ul>
 
  > ```xml
