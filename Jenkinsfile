@@ -10,7 +10,7 @@ pipeline {
                 println 'Cloning git repository...'
                 git 'https://github.com/nirkoren/devopscon.git'
                 println 'Starting the build...'
-		sh "mvn clean install -Pci"
+		bat "mvn clean install -Pci"
             }
             post {
                 success {
