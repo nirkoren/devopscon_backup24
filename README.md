@@ -1,4 +1,4 @@
-# Welcome to DevOpsCon CI/CD demo repo
+# Good Morning and Welcome to DevOpsCon CI/CD demo repo
 ## This repository contains basic Maven project with Hello-World war file 
 In order to make it work, please follow the instructions below: 
 
@@ -21,4 +21,5 @@ In order to make it work, please follow the instructions below:
  >   <user username="admin" password="admin" roles="manager-gui,admin-gui,manager-script" />
  > </tomcat-users>
  > ```
+
 
