@@ -5,7 +5,7 @@
 	CI/CD Workshop, Maven / Tomcat WAR example<P>
 	<%
 		String prefix = "<B>Text from Java class:</B> ";
-		HelloHandler handler = new HelloHandler();
+		HelloHandler handler = new HelloHandler(null);
 		out.print(prefix + handler.sayHello());
 	%>
 </body>
