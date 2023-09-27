@@ -2,6 +2,8 @@
 ## This repository contains basic Maven project with Hello-World Java war file 
 In order to make it work, please follow the instructions below: 
 
+Testing for Windows
+
 <ul>
   <li>Make sure you have JAVA 11 or JAVA 17 (only - (<b>JDK</b> and not only <b>JRE</b>) is running on your laptop</li>
   <li>Get Tomcat 9 (not version 10) - prefer the Core > Zip from <a href=https://tomcat.apache.org/download-90.cgi target=new>here</a></li>
