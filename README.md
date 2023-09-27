@@ -1,4 +1,4 @@
-# Welcome to DevOpsCon CI/CD demo repo
+# Welcome to DevOpsCon CI/CD demo repo - Daniyah
 ## This repository contains basic Maven project with Hello-World Java war file 
 In order to make it work, please follow the instructions below: 
 
