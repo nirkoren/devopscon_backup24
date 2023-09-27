@@ -1,5 +1,5 @@
 # Welcome to DevOpsCon CI/CD demo repo
-## This repository contains basic Maven project with Hello-World Java war file 
+## This repository contains basic Maven project with Hello-World Java war  
 In order to make it work, please follow the instructions below: 
 
 Testing for Windows
@@ -12,7 +12,7 @@ Testing for Windows
   <li>Restart tomcat <TOMCAT DIR>/bin/shutdown.sh & startup.sh (for non-Windows OS) or /bin/shutdown.bat & startup.bat</li>
   <li>The Tomcat URL is <a href=http://localhost:8080/>http://localhost:8080/</a></li>  
   <li>The application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
-  <li>Have more fun!</li>
+  <li>Have fun!</li>
 </ul>
 
  > ```xml
